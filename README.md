@@ -2,4 +2,4 @@
 
 Estamos modificando el archivo
 
-probamos el nombre
+probamos el mail
